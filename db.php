@@ -4,8 +4,8 @@ class Database {
  
     private $host = "localhost";
     private $db_name = "schooltrack";
-    private $username = "ec2-user";
-    private $password = "Eipl@1407";
+    private $username = "user";
+    private $password = "";
     // database connection and table name
     private $conn;
  

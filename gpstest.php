@@ -1,4 +1,8 @@
 <?php
+/*
+** This is a function to calculate distance between two geolocation co-ordinates
+**
+*/
     function calculateDistance($latitude1, $longitude1, $latitude2, $longitude2) {
         $latitude1 = deg2rad($latitude1);
         $longitude1 = deg2rad($longitude1);

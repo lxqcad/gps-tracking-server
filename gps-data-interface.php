@@ -7,7 +7,7 @@
  *
  */
 
-require_once "/var/www/html/tracking/app/model/db.php";
+require_once "db.php";
 require_once "firebase.php";
 require_once "push.php"; 
 
